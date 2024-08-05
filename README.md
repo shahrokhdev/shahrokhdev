@@ -7,7 +7,9 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalagar)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kalagar2) [!
+[![LinkedIn]()  [![YouTube]()
+[![Telegram]([(https://t.me/shahrokhdev))
+[![Instagram](https://www.instagram.com/shahrokh_gh_82/))
 
 <hr />
 
