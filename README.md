@@ -19,50 +19,14 @@
 ###
 
 <div align="left">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#E34F26" width="24px" height="24px">
-  <path d="M1.5 0h21l-1.92 21.84L12 24l-8.58-2.16L1.5 0zm16.92 6.48H7.08l.24 2.64h10.08l-.36 4.08H7.68l.24 2.64h7.92l-.72 8.16-5.52 1.44-5.52-1.44-.36-4.08h2.64l.24 2.64 2.64.72 2.64-.72.24-2.64H7.08l-.72-8.16h12.24l.24-2.64z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#1572B6" width="24px" height="24px">
-  <path d="M1.5 0h21l-1.92 21.84L12 24l-8.58-2.16L1.5 0zm16.92 6.48H7.08l.24 2.64h10.08l-.36 4.08H7.68l.24 2.64h7.92l-.72 8.16-5.52 1.44-5.52-1.44-.36-4.08h2.64l.24 2.64 2.64.72 2.64-.72.24-2.64H7.08l-.72-8.16h12.24l.24-2.64z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#7952B3" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#38B2AC" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#F7DF1E" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#4FC08D" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#777BB4" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FF2D20" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#4479A1" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#E10098" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#F05032" width="24px" height="24px">
-  <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.4 17.4h-4.8V6.6h4.8c2.64 0 4.8 2.16 4.8 4.8s-2.16 4.8-4.8 4.8z"/>
-</svg>
-
+ <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0UzNEYyNiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEuNSAwaDIxbC0xLjkyIDIxLjg0TDEyIDI0bC04LjU4LTIuMTZMMS41IDB6bTE2LjkyIDYuNDhINy4wOGwuMjQgMi42NGgxMC4wOGwtLjM2IDQuMDhINy42OGwuMjQgMi42NGg3LjkybC0uNzIgOC4xNi01LjUyIDEuNDQtNS41Mi0xLjQ0LS4zNi00LjA4aDIuNjRsLjI0IDIuNjQgMi42NC43MiAyLjY0LS43Mi4yNC0yLjY0SDcuMDhsLS43Mi04LjE2aDEyLjI0bC4yNC0yLjY0eiIvPjwvc3ZnPg==" alt="HTML Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzE1NzJCNiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEuNSAwaDIxbC0xLjkyIDIxLjg0TDEyIDI0bC04LjU4LTIuMTZMMS41IDB6bTE2LjkyIDYuNDhINy4wOGwuMjQgMi42NGgxMC4wOGwtLjM2IDQuMDhINy42OGwuMjQgMi42NGg3LjkybC0uNzIgOC4xNi01LjUyIDEuNDQtNS41Mi0xLjQ0LS4zNi00LjA4aDIuNjRsLjI0IDIuNjQgMi42NC43MiAyLjY0LS43Mi4yNC0yLjY0SDcuMDhsLS43Mi04LjE2aDEyLjI0bC4yNC0yLjY0eiIvPjwvc3ZnPg==" alt="CSS Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzc5NTJCMiIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMjAuNjI3IDAgMTIgMHptMi40IDE3LjRoLTQuOFY2LjZoNC44YzIuNjQgMCA0LjggMi4xNiA0LjggNC44cy0yLjE2IDQuOC00LjggNC44eiIvPjwvc3ZnPg==" alt="Bootstrap Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4QjJBQyIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMjAuNjI3IDAgMTIgMHptMi40IDE3LjRoLTQuOFY2LjZoNC44YzIuNjQgMCA0LjggMi4xNiA0LjggNC44cy0yLjE2IDQuOC00LjggNC44eiIvPjwvc3ZnPg==" alt="Tailwind CSS Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y3REYxRSIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMjAuNjI3IDAgMTIgMHptMi40IDE3LjRoLTQuOFY2LjZoNC44YzIuNjQgMCA0LjggMi4xNiA0LjggNC44cy0yLjE2IDQuOC00LjggNC44eiIvPjwvc3ZnPg==" alt="JavaScript Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzRGQzA4RCIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMjAuNjI3IDAgMTIgMHptMi40IDE3LjRoLTQuOFY2LjZoNC44YzIuNjQgMCA0LjggMi4xNiA0LjggNC44cy0yLjE2IDQuOC00LjggNC44eiIvPjwvc3ZnPg==" alt="Vue.js Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzc3N0JCNCIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMjAuNjI3IDAgMTIgMHptMi40IDE3LjRoLTQuOFY2LjZoNC44YzIuNjQgMCA0LjggMi4xNiA0LjggNC44cy0yLjE2IDQuOC00LjggNC44eiIvPjwvc3ZnPg==" alt="PHP Icon">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGMkQyMCIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMjAuNjI3IDAgMTIgMHptMi40IDE
 
   
 </div>
