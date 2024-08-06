@@ -4,6 +4,12 @@
 
 <hr />
 
+### 💫 About Me:
+I was born in 2003 and I am currently studying Software Engineering. I am interested in programming, web design, and development. I am a full-stack developer, but my specialty is in backend development
+   
+
+<hr />
+
 
 ### 🌐 Socials:
  <a href="https://t.me/shahrokhdev">telegram</a>
