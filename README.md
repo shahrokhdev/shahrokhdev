@@ -12,7 +12,7 @@ I was born in 2003 and  I am interested in programming, web design, and developm
 
 
 ### 🌐 Socials:
-![telegram](https://t.me/shahrokhdev?style=for-the-badge&logo=telegram&logoColor=white) 
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahrokhdev) 
 
 
 <hr />
