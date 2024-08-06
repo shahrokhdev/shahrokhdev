@@ -8,6 +8,7 @@
 
 ### 🌐 Socials:
 [![LinkedIn]()  [![YouTube]()
+![](https://t.me/shahrokhdev)<br/>
 [![Telegram]([(https://t.me/shahrokhdev))
 [![Instagram](https://www.instagram.com/shahrokh_gh_82/))
 
