@@ -7,7 +7,7 @@
 
 
 ### 🌐 Socials:
- <a href="https://t.me/shahrokhdev">telegram</a>
+ <a href="https://t.me/shahrokhdev" style="background-color:blue;">telegram</a>
 [![LinkedIn]()  [![YouTube]()
 ![](https://t.me/shahrokhdev)<br/>
 [![Telegram]([(https://t.me/shahrokhdev))
