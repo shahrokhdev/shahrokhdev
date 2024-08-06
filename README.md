@@ -4,8 +4,8 @@
 
 <hr />
 
-### 💫 About Me:
-I was born in 2003 and I am currently studying Software Engineering. I am interested in programming, web design, and development. I am a full-stack developer, but my specialty is in backend development
+### ✍️  About Me:
+“I was born in 2003 and I am currently studying Software Engineering. I am interested in programming, web design, and development. I am a full-stack developer, but my specialty is in backend development. I am also looking to gain more experience in this field.”
    
 
 <hr />
