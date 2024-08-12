@@ -26,7 +26,7 @@ I was born in 2003 and  I am interested in programming, web design, and developm
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br> 
 <br>
-
+<hr />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrokhdev&show_icons=true&theme=tokyonight)
 
