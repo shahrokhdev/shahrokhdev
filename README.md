@@ -1,7 +1,7 @@
 ### 💫 ShahrokhDev:
-🌍  Live in Iran,Birjand<br>
+🌍  Live in khorasan<br>
 🚀  I'm currently working as remote<br>
-
+👊  Developing in Laravel
 <hr />
 
 ### ✍️  About Me:
