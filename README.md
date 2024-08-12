@@ -27,9 +27,7 @@ I was born in 2003 and  I am interested in programming, web design, and developm
 <br> 
 <br>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kalagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kalagar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrokhdev&show_icons=true&theme=radical)
 
 <hr />
