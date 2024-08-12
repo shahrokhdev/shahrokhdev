@@ -34,6 +34,6 @@ I was born in 2003 and  I am interested in programming, web design, and developm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrokhdev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahrokhdev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr />
