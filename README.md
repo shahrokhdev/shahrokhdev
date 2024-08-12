@@ -32,7 +32,7 @@ I was born in 2003 and  I am interested in programming, web design, and developm
 
 ![shahrokh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrokhdev&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrokhdev&layout=donut-vertical)](https://github.com/shahrokhdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrokhdev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![shahrokh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahrokhdev)](https://github.com/shahrokhdev/github-readme-stats)
 
