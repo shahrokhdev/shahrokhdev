@@ -39,6 +39,6 @@ I was born in 2003 and  I am interested in programming, web design, and developm
 ![ShahrokhDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrokhdev&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github.com/shahrokhdev/shahrokhrepos?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/shahrokhdev/shahrokhrepos?username=shahrokhdev&layout=donut)](https://github.com/shahrokhdev/shahrokhrepos)
 
 <hr />
